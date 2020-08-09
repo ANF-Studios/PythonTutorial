@@ -15,6 +15,8 @@ i = print(variable1 - variable2)
 j = print(variable1 * variable2)
 k = print(3 * "word")
 a, b = 3, 4
+print('{0}, {1}'.format(a, b))
+print('{}, {}'.format(a, b))
 l = print(a,b)
 m = print(a + b)
 n = print(a - b)

@@ -73,3 +73,4 @@ ExampleVariable = None # None is how you say it is nothing
 
 # Hopw it was easy :D
 # If you still need help, you can ask me at my Discord server: https://discord.gg/fKWpK7A
+# Psst.. Watch the tutorial here: https://youtu.be/r1O5Ya0OhJ8

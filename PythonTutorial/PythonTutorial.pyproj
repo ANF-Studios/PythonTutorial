@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c8aede92-db7b-4e73-a881-1bb33fb4c06f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>MainPythonScript\PythonTutorial.py</StartupFile>
+    <StartupFile>PythonTutorial.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,10 +24,16 @@
     <Compile Include="MainPythonScript\CoreComponents\Component1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MainPythonScript\CoreComponents\Component2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PythonLessons\PythonLesson1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="MainPythonScript\PythonTutorial.py" />
+    <Compile Include="PythonTutorial.py" />
+    <Compile Include="PythonLessons\PythonLesson2.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="MainPythonScript\CoreComponents\" />
