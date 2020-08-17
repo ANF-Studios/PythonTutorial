@@ -4,8 +4,11 @@
 
 # You can remove the comment to run whichever script you want
 
-#Component1.py of PythonLesson1
+#Component1.py of PythonLesson1.py
 #from MainPythonScript.CoreComponents.Component1 import *
 
-#Component2.py of PythonLesson2
+#Component2.py of PythonLesson2.py
 #from MainPythonScript.CoreComponents.Component2 import *
+
+#Component3.py of PythonLesson3.py
+#from MainPythonScript.CoreComponents.Component3 import *

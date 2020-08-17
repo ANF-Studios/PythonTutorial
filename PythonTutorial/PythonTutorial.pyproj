@@ -27,7 +27,13 @@
     <Compile Include="MainPythonScript\CoreComponents\Component2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MainPythonScript\CoreComponents\Component3.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PythonLessons\PythonLesson1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PythonLessons\PythonLesson3.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonTutorial.py" />

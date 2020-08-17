@@ -1,4 +1,5 @@
-# File created for PythonLesson2. All contents are explained there.
+# File created for PythonLesson2.py
+# All contents are explained there.
 
 input()
 input('Text')

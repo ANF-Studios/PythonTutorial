@@ -1,3 +1,4 @@
+# Watch the tutorial here: https://youtu.be/mSMXbJ3uKRc
 # If you want the user to interact with the console, we use a method called "input()", which is pretty straight forward
 # Here is an example:
 input() # This enables input and allows the user to type on the keyboard
@@ -43,6 +44,7 @@ input('This is a sentence, but you won\'t be able to give input.') # If we simpl
 # The same goes for the double quotes!
 print("Didn't you said, \"Yes, I will do my homework\"?")
 
+# home = code
 # And with that said, I need to do my homework so this tutorial must stop! See you next time.
 # Psst.. need help: https://discord.gg/fKWpK7A
-# Watch the tutorial here: https://youtu.be/mSMXbJ3uKRc
+

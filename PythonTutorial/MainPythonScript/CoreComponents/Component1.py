@@ -1,4 +1,5 @@
-# File created for PythonLesson1. All contents are explained there.
+# File created for PythonLesson1.py
+# All contents are explained there.
 
 a = print('Hello World!')
 b = print("Hello World!")
